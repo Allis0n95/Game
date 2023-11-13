@@ -1,0 +1,1 @@
+In the dark room there is a door to the left (3), a door to the right (4), and a door to an attic (6). Both doors are closed and the attic has a keycode.
